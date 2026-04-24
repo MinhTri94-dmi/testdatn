@@ -18,7 +18,7 @@ const Hero = () => {
             </p>
             <p className='max-w-440 mb-14 body-1 max-md:mb-10'>Hello, world!</p>
             <LinkScroll to='fearures' offset={-100} spy smooth>
-              <Button icon='/images/zap.svg'>Try it now</Button>
+              <Button icon='/images/zap.svg'>Try it now!</Button>
             </LinkScroll>
           </div>
           <div className='absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res'>
