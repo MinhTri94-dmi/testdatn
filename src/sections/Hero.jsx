@@ -13,8 +13,10 @@ const Hero = () => {
               amazingly simple
             </h1>
             <p className='max-w-440 mb-14 body-1 max-md:mb-10'>
-              We designed XORA AI Video Editor to be an easy to use, quick to
-              learn, and surprisingly powerful.
+              A powerful video editing tool that simplifies the process of
+              creating stunning videos. With an intuitive interface and a wide
+              range of features, it empowers users to unleash their creativity
+              and produce professional-quality videos with ease.
             </p>
             <p className='max-w-440 mb-14 body-1 max-md:mb-10'>Hello, world!</p>
             <LinkScroll to='fearures' offset={-100} spy smooth>
